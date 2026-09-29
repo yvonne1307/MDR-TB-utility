@@ -30,7 +30,7 @@ The de-identified individual-level data generated and/or analyzed during the cur
 ## Citation
 
 A DOI and citation information for this code repository will be provided through Zenodo.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23030549.svg)]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23030549.svg)](https://doi.org/10.5281/zenodo.23030549)
 
 ## License
 
