@@ -24,7 +24,7 @@ The analyses were conducted using R.
 
 ## Data availability
 
-The individual-level data used in this study are not publicly available due to privacy and confidentiality considerations. The R code used for the statistical analyses is provided in this repository to support transparency and reproducibility.
+The de-identified individual-level data generated and/or analyzed during the current study are not publicly available to protect participant privacy and confidentiality. The data may be made available from the corresponding author upon reasonable request, subject to approval by the relevant institutional and/or ethics committee and in accordance with applicable data protection requirements.
 
 
 ## Citation
